@@ -85,6 +85,7 @@ body {
     height: 1px;
     width: 1px;
     overflow: hidden;
+    color: #ccc;
   }
 
 /* Change nav link color on hover */
