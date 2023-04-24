@@ -338,15 +338,15 @@ textarea {
 }
 
 .contact-container input[type=submit] {
-    background-color: #04AA6D;
-    color: white;
+    background-color: #03B574;
+    color: #0D0D0D;
     padding: 12px 20px;
     border: none;
     cursor: pointer;
 }
 
 .contact-container input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: #03B574;
 }
 
 /* Style the container/contact section */
