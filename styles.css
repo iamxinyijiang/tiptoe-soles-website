@@ -497,6 +497,10 @@ select{
     max-width:20em; 
     padding:0;
 }
+
+#search-bar{
+    display: none;
+}
 /*----------------------------------*/
 
 /* Responsive layout*/
